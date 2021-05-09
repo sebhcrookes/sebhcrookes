@@ -1,0 +1,4 @@
+- Hi, I’m @BambooPyanda
+- I'm a developer and I can code in Python, Java and Go
+- I'm currently working on a game written in Java with no engine or frameworks (everything is written by me, completely from scratch), and it is stored in a private repo!
+- Also, I'm working on building a 6502-based computer, similar to ones you'd find in the 80's.
