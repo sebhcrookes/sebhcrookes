@@ -15,6 +15,7 @@
   
   <h3>Notes 📝</h3>
   
-  <p>I'm new to Github, so hopefully I'll have lots of my code/projects uploaded soon!</p>
+  <a>I'm new to Github, so hopefully I'll have lots of my code/projects uploaded soon!<br></a>
+  <a href=https://github.com/BambooPyanda/BambooPyanda/issues/1>Feel free to ask me anything here</a>
   
 </div>
