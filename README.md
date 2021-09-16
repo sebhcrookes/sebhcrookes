@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Hi, I'm BambooPyanda 👋<br>I develop software in Java, <br>Python, C/C++ and Go</h3>
-  <h4> <a href="https://www.google.com">Socials</a> • <a href="https://www.google.com">Website</a> • <a href="https://www.google.com">Blog</a> <br>(links temporarily unavailable)</h4>
+  <h4> <a href="https://github.com/BambooPyanda/BambooPyanda/socials.md">Socials</a> • <a href="https://www.google.com">Website</a> • <a href="https://www.google.com">Blog</a> <br>(links temporarily unavailable)</h4>
   
   <hr width="50%" style="height:5px;">
   
