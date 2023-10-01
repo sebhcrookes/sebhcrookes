@@ -1,11 +1,22 @@
 <div align="center">
-  <h3>Hi, I'm BambooPyanda 👋<br>I develop software in C/C++, <br>Python, Java and Assembly</h3>
+  <h3>Hi, I'm Sebastian Crookes 👋<br>I develop software in C/C++, <br>Python, Java and Assembly</h3>
   <h4> <a href="https://github.com/BambooPyanda/BambooPyanda/socials.md">Socials</a> • <a href="https://www.google.com">Website</a> • <a href="https://www.google.com">Blog</a> <br>(links temporarily unavailable)</h4>
   
   <hr width="50%" style="height:5px;">
-  
+
+</div>
+<div align="left">
   <p>Currently, I am working on several projects. These are:</p>
-  <a>• <b>BambooOS</b> - An operating system written in C++ and Assembly, with a UEFI bootloader<br></a>
+  <a>• <b>BambooOS</b> - An x86_64 operating system written in C++ and Assembly, with a UEFI bootloader.<br>
+    &nbsp;&nbsp;It supports:<br>
+    &nbsp;&nbsp;‣ ACPI tables (MADT, MCFG)<br>
+    &nbsp;&nbsp;‣ SMP support (multicore)<br>
+    &nbsp;&nbsp;‣ GDT<br>
+    &nbsp;&nbsp;‣ Interrupts (including IOAPIC)<br>
+    &nbsp;&nbsp;‣ PIC + PIT<br>
+    &nbsp;&nbsp;‣ Full Physical MM and Virtual MM support<br>
+    &nbsp;&nbsp;‣ PCI<br>
+    &nbsp;&nbsp;‣ AHCI + FAT32<br></a><br>
   <a>• <b>bamasm</b> - An assembler which turns assembly code for BambooOS into the machine code which the OS can execute<br></a>
   <a>• <b>game.exe</b> - A game I'm working on which uses no external libraries or frameworks, other than ones written by me<br></a>
   
