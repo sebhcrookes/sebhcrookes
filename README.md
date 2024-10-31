@@ -13,9 +13,10 @@
   
   <br>
   
-  <p>I've been coding for over 6 years now in Python, Java, C/C++, Go and other languages, so I have worked on many other projects such as <b>compilers</b>, <b>machine learning</b> projects and more. I am uploading my projects on here so that anyone interested can take a look!</p>
+  <p>I've been coding for over 6 years now in Python, Java, C/C++, Go and other languages, so I have worked on many other projects such as <b>compilers</b>, <b>machine learning</b> projects and more. I am uploading my projects on here so that anyone interested can take a look!</p><br>
 </div>
 
 <div align="center">
+  <img src="https://github.com/sebhcrookes/sebhcrookes/blob/main/images/contributions.png?raw=true" alt="Screenshot of contribution history" width="50%"/>
   <hr width="50%" style="height:5px;">
 </div>
