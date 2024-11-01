@@ -9,7 +9,7 @@
   <p>Currently, I am working on several projects. The main ones are:</p>
   <a>• <b>BambooOS</b> - An x86_64 operating system written in C++ and Assembly. Click <a href="https://github.com/sebhcrookes/bamboo-os">here</a> for more<br></a>
   <a>• <b>Engine Simulator</b> - An engine simulator written in C++, aiming to produce an accurate engine sound through fluid and physics simulation<br></a>
-  <a>• <b>game.exe</b> - A game I'm working on which uses no external libraries or frameworks, other than ones written by me<br></a>
+  <a>• <b>Reliquia</b> - A game I'm working on written in Java, which uses no external libraries or frameworks<br></a>
   
   <br>
   
